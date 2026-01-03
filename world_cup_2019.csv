@@ -1,0 +1,49 @@
+Id,Date,Match,Country_1,Country_2,Ground / Location,Result,Winner,Margin
+1,30-05-2019,1st Match, England , South Africa,"Kennington Oval, London",England won by 104 runs,England ,104 runs
+2,31-05-2019,2nd Match, Pakistan , West Indies,"Trent Bridge, Nottingham",West Indies won by 7 wickets,West Indies ,7 wickets
+3,01-06-2019,3rd Match, New Zealand , Sri Lanka,"Sophia Gardens, Cardiff",New Zealand won by 10 wickets,New Zealand ,10 wickets
+4,01-06-2019,4th Match, Afghanistan , Australia,"County Ground, Bristol",Australia won by 7 wickets,Australia ,7 wickets
+5,02-06-2019,5th Match, Bangladesh , South Africa,"Kennington Oval, London",Bangladesh won by 21 runs,Bangladesh ,21 runs
+6,03-06-2019,6th Match, England , Pakistan,"Trent Bridge, Nottingham",Pakistan won by 14 runs,Pakistan ,14 runs
+7,04-06-2019,7th Match, Afghanistan , Sri Lanka,"Sophia Gardens, Cardiff",Sri Lanka won by 34 runs,Sri Lanka ,34 runs
+8,05-06-2019,8th Match, India , South Africa,"The Rose Bowl, Southampton",India won by 6 wickets,India ,6 wickets
+9,05-06-2019,9th Match, Bangladesh , New Zealand,"Kennington Oval, London",New Zealand won by 2 wickets,New Zealand ,2 wickets
+10,06-06-2019,10th Match, Australia , West Indies,"Trent Bridge, Nottingham",Australia won by 15 runs,Australia ,15 runs
+11,07-06-2019,11th Match, Pakistan , Sri Lanka,"County Ground, Bristol",Match abandoned,,
+12,08-06-2019,12th Match, England , Bangladesh,"Sophia Gardens, Cardiff",England won by 106 runs,England ,106 runs
+13,08-06-2019,13th Match, Afghanistan , New Zealand,"The Cooper Associates County Ground, Taunton",New Zealand won by 7 wickets,New Zealand ,7 wickets
+14,09-06-2019,14th Match, Australia , India,"Kennington Oval, London",India won by 36 runs,India ,36 runs
+15,10-06-2019,15th Match, South Africa , West Indies,"The Rose Bowl, Southampton",No result,,
+16,11-06-2019,16th Match, Bangladesh , Sri Lanka,"County Ground, Bristol",Match abandoned,,
+17,12-06-2019,17th Match, Australia , Pakistan,"The Cooper Associates County Ground, Taunton",Australia won by 41 runs,Australia ,41 runs
+18,13-06-2019,18th Match, India , New Zealand,"Trent Bridge, Nottingham",Match abandoned,,
+19,14-06-2019,19th Match, England , West Indies,"The Rose Bowl, Southampton",England won by 8 wickets,England ,8 wickets
+20,15-06-2019,20th Match, Australia , Sri Lanka,"Kennington Oval, London",Australia won by 87 runs,Australia ,87 runs
+21,15-06-2019,21st Match, Afghanistan , South Africa,"Sophia Gardens, Cardiff",South Africa won by 9 wickets,South Africa ,9 wickets
+22,16-06-2019,22nd Match, India , Pakistan,"Old Trafford, Manchester",India won by 89 runs,India ,89 runs
+23,17-06-2019,23rd Match, Bangladesh , West Indies,"The Cooper Associates County Ground, Taunton",Bangladesh won by 7 wickets,Bangladesh ,7 wickets
+24,18-06-2019,24th Match, England , Afghanistan,"Old Trafford, Manchester",England won by 150 runs,England ,150 runs
+25,19-06-2019,25th Match, New Zealand , South Africa,"Edgbaston, Birmingham",New Zealand won by 4 wickets,New Zealand ,4 wickets
+26,20-06-2019,26th Match, Australia , Bangladesh,"Trent Bridge, Nottingham",Australia won by 48 runs,Australia ,48 runs
+27,21-06-2019,27th Match, England , Sri Lanka,"Headingley, Leeds",Sri Lanka won by 20 runs,Sri Lanka ,20 runs
+28,22-06-2019,28th Match, Afghanistan , India,"The Rose Bowl, Southampton",India won by 11 runs,India ,11 runs
+29,22-06-2019,29th Match, New Zealand , West Indies,"Old Trafford, Manchester",New Zealand won by 5 runs,New Zealand ,5 runs
+30,23-06-2019,30th Match, Pakistan , South Africa,"Lord's, London",Pakistan won by 49 runs,Pakistan ,49 runs
+31,24-06-2019,31st Match, Afghanistan , Bangladesh,"The Rose Bowl, Southampton",Bangladesh won by 62 runs,Bangladesh ,62 runs
+32,25-06-2019,32nd Match, England , Australia,"Lord's, London",Australia won by 64 runs,Australia ,64 runs
+33,26-06-2019,33rd Match, New Zealand , Pakistan,"Edgbaston, Birmingham",Pakistan won by 6 wickets,Pakistan ,6 wickets
+34,27-06-2019,34th Match, India , West Indies,"Old Trafford, Manchester",India won by 125 runs,India ,125 runs
+35,28-06-2019,35th Match, South Africa , Sri Lanka,"Riverside Ground, Chester-Le-Street",South Africa won by 9 wickets,South Africa ,9 wickets
+36,29-06-2019,36th Match, Afghanistan , Pakistan,"Headingley, Leeds",Pakistan won by 3 wickets,Pakistan ,3 wickets
+37,29-06-2019,37th Match, Australia , New Zealand,"Lord's, London",Australia won by 86 runs,Australia ,86 runs
+38,30-06-2019,38th Match, England , India,"Edgbaston, Birmingham",England won by 31 runs,England ,31 runs
+39,01-07-2019,39th Match, Sri Lanka , West Indies,"Riverside Ground, Chester-Le-Street",Sri Lanka won by 23 runs,Sri Lanka ,23 runs
+40,02-07-2019,40th Match, Bangladesh , India,"Edgbaston, Birmingham",India won by 28 runs,India ,28 runs
+41,03-07-2019,41st Match, England , New Zealand,"Riverside Ground, Chester-Le-Street",England won by 119 runs,England ,119 runs
+42,04-07-2019,42nd Match, Afghanistan , West Indies,"Headingley, Leeds",West Indies won by 23 runs,West Indies ,23 runs
+43,05-07-2019,43rd Match, Bangladesh , Pakistan,"Lord's, London",Pakistan won by 94 runs,Pakistan ,94 runs
+44,06-07-2019,44th Match, India , Sri Lanka,"Headingley, Leeds",India won by 7 wickets,India ,7 wickets
+45,06-07-2019,45th Match, Australia , South Africa,"Old Trafford, Manchester",South Africa won by 10 runs,South Africa ,10 runs
+46,09-07-2019,1st Semi Final, India , New Zealand,"Old Trafford, Manchester",New Zealand won by 18 runs,New Zealand ,18 runs
+47,11-07-2019,2nd Semi Final, England , Australia,"Edgbaston, Birmingham",England won by 8 wickets,England ,8 wickets
+48,14-07-2019,Final, England , New Zealand,"Lord's, London",England won in super over after scores were tied,England,By super Over

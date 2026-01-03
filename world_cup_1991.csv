@@ -1,0 +1,40 @@
+Id,Date,Match,Team 1,Team 2,Result,Winner,Margin
+1,22-02-1992,1st Match, New Zealand , Australia,New Zealand won by 37 runs,New Zealand ,37 runs
+2,22-02-1992,2nd Match, England , India,England won by 9 runs,England ,9 runs
+3,23-02-1992,3rd Match, Sri Lanka , Zimbabwe,Sri Lanka won by 3 wickets,Sri Lanka ,3 wickets
+4,23-02-1992,4th Match, Pakistan , West Indies,West Indies won by 10 wickets,West Indies ,10 wickets
+5,25-02-1992,5th Match, New Zealand , Sri Lanka,New Zealand won by 6 wickets,New Zealand ,6 wickets
+6,26-02-1992,6th Match, Australia , South Africa,South Africa won by 9 wickets,South Africa ,9 wickets
+7,27-02-1992,7th Match, Pakistan , Zimbabwe,Pakistan won by 53 runs,Pakistan ,53 runs
+8,27-02-1992,8th Match, England , West Indies,England won by 6 wickets,England ,6 wickets
+9,28-02-1992,9th Match, India , Sri Lanka,No result,,
+10,29-02-1992,10th Match, New Zealand , South Africa,New Zealand won by 7 wickets,New Zealand ,7 wickets
+11,29-02-1992,11th Match, West Indies , Zimbabwe,West Indies won by 75 runs,West Indies ,75 runs
+12,01-03-1992,12th Match, Australia , India,Australia won by 1 run,Australia ,1 run
+13,01-03-1992,13th Match, England , Pakistan,No result,,
+14,02-03-1992,14th Match, South Africa , Sri Lanka,Sri Lanka won by 3 wickets,Sri Lanka ,3 wickets
+15,03-03-1992,15th Match, New Zealand , Zimbabwe,New Zealand won by 48 runs,New Zealand ,48 runs
+16,04-03-1992,16th Match, India , Pakistan,India won by 43 runs,India ,43 runs
+17,05-03-1992,17th Match, South Africa , West Indies,South Africa won by 64 runs,South Africa ,64 runs
+18,05-03-1992,18th Match, Australia , England,England won by 8 wickets,England ,8 wickets
+19,07-03-1992,19th Match, India , Zimbabwe,India won by 55 runs,India ,55 runs
+20,07-03-1992,20th Match, Australia , Sri Lanka,Australia won by 7 wickets,Australia ,7 wickets
+21,08-03-1992,21st Match, New Zealand , West Indies,New Zealand won by 5 wickets,New Zealand ,5 wickets
+22,08-03-1992,22nd Match, Pakistan , South Africa,South Africa won by 20 runs,South Africa ,20 runs
+23,09-03-1992,23rd Match, England , Sri Lanka,England won by 106 runs,England ,106 runs
+24,10-03-1992,24th Match, India , West Indies,West Indies won by 5 wickets,West Indies ,5 wickets
+25,10-03-1992,25th Match, South Africa , Zimbabwe,South Africa won by 7 wickets,South Africa ,7 wickets
+26,11-03-1992,26th Match, Australia , Pakistan,Pakistan won by 48 runs,Pakistan ,48 runs
+27,12-03-1992,27th Match, New Zealand , India,New Zealand won by 4 wickets,New Zealand ,4 wickets
+28,12-03-1992,28th Match, England , South Africa,England won by 3 wickets,England ,3 wickets
+29,13-03-1992,29th Match, Sri Lanka , West Indies,West Indies won by 91 runs,West Indies ,91 runs
+30,14-03-1992,30th Match, Australia , Zimbabwe,Australia won by 128 runs,Australia ,128 runs
+31,15-03-1992,31st Match, New Zealand , England,New Zealand won by 7 wickets,New Zealand ,7 wickets
+32,15-03-1992,32nd Match, India , South Africa,South Africa won by 6 wickets,South Africa ,6 wickets
+33,15-03-1992,33rd Match, Pakistan , Sri Lanka,Pakistan won by 4 wickets,Pakistan ,4 wickets
+34,18-03-1992,34th Match, New Zealand , Pakistan,Pakistan won by 7 wickets,Pakistan ,7 wickets
+35,18-03-1992,35th Match, England , Zimbabwe,Zimbabwe won by 9 runs,Zimbabwe ,9 runs
+36,18-03-1992,36th Match, Australia , West Indies,Australia won by 57 runs,Australia ,57 runs
+37,21-03-1992,1st Semi Final, New Zealand , Pakistan,Pakistan won by 4 wickets,Pakistan ,4 wickets
+38,22-03-1992,2nd Semi Final, England , South Africa,England won by 19 runs,England ,19 runs
+39,25-03-1992,Final, England , Pakistan,Pakistan won by 22 runs,Pakistan ,22 runs
